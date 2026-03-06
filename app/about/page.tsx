@@ -49,7 +49,7 @@ export default function About() {
           </h2>
 
           <p className="text-gray-400 leading-relaxed">
-            I'm <span className="text-white font-semibold">Safdar Ali</span>, a passionate 
+            I am <span className="text-white font-semibold">Safdar Ali</span>, a passionate 
             Full Stack Developer specializing in modern web technologies like 
             Next.js, TypeScript, and Python. I love building scalable, 
             high-performance applications with clean UI and smooth UX.
